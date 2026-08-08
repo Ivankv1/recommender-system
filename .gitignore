@@ -1,0 +1,25 @@
+# Data
+*.csv
+data/
+
+# Models
+*.joblib
+*.pkl
+
+# IDE
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
